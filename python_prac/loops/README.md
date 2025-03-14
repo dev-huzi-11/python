@@ -83,7 +83,7 @@ Problem: Check if a number is prime.
 Problem: Check if all elements in a list are unique. If a duplicate is found, exit the loop and print the duplicate.
 
 ```python
-items = ["apple", "banana", "orange", "apple", "mango"]
+items = ["Apple", "Banana", "Mango", "Apple", "orange"]
 ```
 </details>
 
