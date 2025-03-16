@@ -12,6 +12,11 @@ A simple **Unit Converter** built with **Python**, **uv**, and **Streamlit**. Th
 - User-friendly interface powered by **Streamlit**
 - Fast and accurate conversions
 
+🌍 Live Demo
+
+🔗 Try it here: [Unit Converter App](https://unit-converter-w97xndvhwsevgh6sapzy87.streamlit.app/)
+
+
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
