@@ -2,6 +2,8 @@
 
 This project is a **Password Generator** built using **Python, Streamlit, and UV**. It is part of the **Ramadan Coding Nights** challenge, where I aim to build projects and enhance my programming skills during Ramadan.
 
+👉 **Live Demo:** [Password Generator](https://passwordgenerator-reqhs4bnf3ez57gu6sy7od.streamlit.app/)
+
 ## Features
 - Generates strong and secure passwords.
 - Adjustable password length.
