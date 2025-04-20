@@ -1,0 +1,16 @@
+[
+    {
+        "title": "The race",
+        "author": "Huzaifa",
+        "published_year": 2025,
+        "genre": "scifi",
+        "read_status": true
+    },
+    {
+        "title": "The superhero of our family",
+        "author": "Huzaifa",
+        "published_year": 2025,
+        "genre": "scifi",
+        "read_status": true
+    }
+]
